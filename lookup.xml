@@ -13,7 +13,7 @@
 		<PRODUCT PID="0x4011" URL="https://raw.githubusercontent.com/bosefirmware/ced/master/harvey/index.xml" />
 		<PRODUCT PID="0x4012" URL="https://raw.githubusercontent.com/bosefirmware/ced/master/ice/index.xml" />
 		<PRODUCT PID="0x4013" URL="https://raw.githubusercontent.com/bosefirmware/ced/master/flurry/index.xml" />
-		<PRODUCT PID="0x4014" URL="https://raw.githubusercontent.com/bosefirmware/ced/master/powder/index.xml" />
+		<PRODUCT PID="0x40fe" URL="https://raw.githubusercontent.com/bosefirmware/ced/master/powder/index.xml" />
 		<PRODUCT PID="0x4015" URL="https://raw.githubusercontent.com/bosefirmware/stetson/master/trapper/index.xml" />
 		<PRODUCT PID="0x4017" URL="https://raw.githubusercontent.com/bosefirmware/ced/master/kleos/index.xml" />
 		<PRODUCT PID="0x4018" URL="https://raw.githubusercontent.com/bosefirmware/ced/master/levi/index.xml" />
